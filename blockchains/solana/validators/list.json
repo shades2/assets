@@ -1,5 +1,11 @@
 [
     {
+        "id": "AS3nKBQfKs8fJ8ncyHrdvo4FDT6S8HMRhD75JjCcyr1t",
+        "name": "Overclock",
+        "description": "Dedicated members of the Solana ecosystem running a high performance, secure validator operation.",
+        "website": "https://www.overclock.one/"
+    },
+    {
         "id": "EPWrFd8jJ4SLA1YtcZcRAsAMxmnikSVqbumerCq5yV6z",
         "name": "0% fee 🌻 Sunflower",
         "description": "Thanks to this sunflower, the plants defeated the zombies! She can be trusted! Retired. Now she's just validating.",
@@ -106,5 +112,11 @@
         "name": "Juicy Stake",
         "description": "The ultimate Juicy Stake validator by @knox_trades",
         "website": "https://juicystake.io"
+    },
+    {
+        "id": "6F5xdRXh2W3B2vhte12VG79JVUkUSLYrHydGX1SAadfZ",
+        "name": "Allnodes.com ⚡️ 0% fee",
+        "description": "eliable non-custodial Validator run by the industry leader - Allnodes.",
+        "website": "https://www.allnodes.com/sol/staking"
     }
 ]
